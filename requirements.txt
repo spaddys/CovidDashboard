@@ -1,4 +1,4 @@
-ipywidgets
-pandas
-numpy
 matplotlib
+pandas
+uk_covid19
+voila
