@@ -2,4 +2,3 @@ ipywidgets
 pandas
 numpy
 matplotlib
-json
